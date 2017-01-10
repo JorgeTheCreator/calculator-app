@@ -1,6 +1,6 @@
 # calculator-app
 
-Technologies use for this simple calculator:
+Technologies used for this simple calculator:
 
 1.HTML/CSS
 
@@ -11,4 +11,3 @@ Technologies use for this simple calculator:
 4.javascript
 
 5.jquery
-
