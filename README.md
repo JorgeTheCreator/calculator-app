@@ -11,3 +11,6 @@ Technologies used for this simple calculator:
 4.javascript
 
 5.jquery
+
+check it out:
+https://warm-earth-33642.herokuapp.com/
