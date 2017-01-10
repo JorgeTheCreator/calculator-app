@@ -2,15 +2,16 @@
 
 Technologies used for this simple calculator:
 
-1.HTML/CSS
+1. HTML/CSS
 
-2.animate.css
+2. Animate.css
 
-3.google fonts
+3. Google fonts
 
-4.javascript
+4. JavaScript
 
-5.jquery
+5. jQuery
 
-check it out:
-https://warm-earth-33642.herokuapp.com/
+Check It Out:
+
+# https://warm-earth-33642.herokuapp.com/
